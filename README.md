@@ -1,7 +1,7 @@
 # Boas vindas ao meu perfil 🐞
-Meu nome é Beatriz Sinelli Laham
+Meu nome é _______________
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![](https://media.tenor.com/z1YT2LePMWkAAAAi/tkthao219-peach.gif)
+![](https://media1.tenor.com/m/C1QLgVdiRgAAAAAd/so-sleepy.gif)
