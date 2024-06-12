@@ -1,7 +1,7 @@
 # Boas vindas ao meu perfil 🐞
-Meu nome é _______________
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![](https://media1.tenor.com/m/C1QLgVdiRgAAAAAd/so-sleepy.gif)
+Meu nome é Beatriz Sinelli Laham
+
+- Estou estudando na Alura
+- Estou aprendendo a linguagem JavaScript
+- Utilizo este espaço para compartilhar meus projetos
